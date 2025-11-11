@@ -1,4 +1,4 @@
-🧠 Model Performance (Your Personal Dataset)
+🧠 Model Performance (My Personal Dataset)
 Metric	Score
 Precision	92%
 Recall	90%
@@ -19,7 +19,7 @@ Existing Paper Result	98%	95%	96%
 
 Analysis:
 
-Your model performs slightly lower than the published benchmark results.
+my model performs slightly lower than the published benchmark results.
 
 This difference may be due to:
 
@@ -29,7 +29,7 @@ Fewer training epochs or limited augmentation.
 
 Different lighting, camera angles, or background conditions.
 
-Despite that, your model still demonstrates strong, real-world reliability.
+Despite that, my model still demonstrates strong, real-world reliability.
 
 🧩 Result Summary
 
@@ -39,4 +39,4 @@ Recall (90%) → Detects most people correctly.
 
 mAP (90%) → Balanced and robust detection capability.
 
-Overall: Your YOLOv5 model is performing well, though fine-tuning the dataset or hyperparameters could push it closer to the research-level 96% mAP.
+Overall: my YOLOv5 model is performing well, though fine-tuning the dataset or hyperparameters could push it closer to the research-level 96% mAP.
